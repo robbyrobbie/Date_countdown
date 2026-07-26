@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  margin: 15% auto;
+}
+h1 {
+  font-size: 2rem;
+}
+p {
+  font-size: 2rem;
+  padding: 10%;
+  margin: 10%;
+  background: orange;
+  border-radius: 10px;
+}
